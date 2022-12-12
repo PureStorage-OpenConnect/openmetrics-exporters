@@ -1,6 +1,6 @@
 # OpenMetrics Exporters
 
-Pure Storage provide OpenMtrics EXporters for both the FlashArray and FlashBlade.
+Pure Storage provide OpenMtrics Exporters for both the FlashArray and FlashBlade.
 
 Installation and configuration details are provided in the following repositories:
 
