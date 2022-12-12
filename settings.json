@@ -1,5 +1,5 @@
 {
-    "id": "OpenMetrics-Exporters",
+    "id": "openmetrics-exporters",
     "name": "OpenMetrics Exporters",
     "filter": "devops",
     "image": "https://code.purestorage.com/images/ome.png",
